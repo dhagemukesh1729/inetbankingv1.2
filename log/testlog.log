@@ -1,0 +1,108 @@
+2020-05-14 17:06:22,434 - ebanking -INFO - Enter URL
+2020-05-14 17:06:22,628 - ebanking -INFO - Enter Username
+2020-05-14 17:06:22,797 - ebanking -INFO - Enter PW
+2020-05-14 17:06:25,632 - ebanking -INFO - Test Case Passed
+2020-05-14 17:07:37,036 - ebanking -INFO - Enter URL
+2020-05-14 17:07:37,228 - ebanking -INFO - Enter Username
+2020-05-14 17:07:37,408 - ebanking -INFO - Enter PW
+2020-05-14 17:07:40,028 - ebanking -INFO - Test Case Passed
+2020-05-14 17:40:56,189 - ebanking -INFO - Enter URL
+2020-05-14 17:40:56,353 - ebanking -INFO - Enter Username
+2020-05-14 17:40:56,530 - ebanking -INFO - Enter PW
+2020-05-14 17:40:58,852 - ebanking -INFO - Test Case Passed
+2020-05-15 14:03:10,933 - ebanking -INFO - Enter URL
+2020-05-15 14:03:13,510 - ebanking -INFO - Enter URL
+2020-05-15 14:18:53,164 - ebanking -INFO - Enter URL
+2020-05-15 14:18:53,444 - ebanking -INFO - Enter Username
+2020-05-15 14:18:53,569 - ebanking -INFO - Enter PW
+2020-05-15 14:18:59,047 - ebanking -INFO - Test Case Passed
+2020-05-15 14:22:15,543 - ebanking -INFO - Enter URL
+2020-05-15 14:22:15,832 - ebanking -INFO - Enter Username
+2020-05-15 14:22:15,996 - ebanking -INFO - Enter PW
+2020-05-15 14:22:18,571 - ebanking -INFO - Test Case Passed
+2020-05-15 15:57:29,523 - ebanking -INFO - Enter URL
+2020-05-15 15:57:31,277 - ebanking -INFO - Enter Username
+2020-05-15 15:57:31,671 - ebanking -INFO - Enter PW
+2020-05-15 15:57:39,451 - ebanking -INFO - Test Case Passed
+2020-05-15 16:02:34,468 - ebanking -INFO - Enter URL
+2020-05-15 16:02:34,884 - ebanking -INFO - Enter Username
+2020-05-15 16:02:35,161 - ebanking -INFO - Enter PW
+2020-05-19 11:57:37,564 - ebanking -INFO - Enter URL
+2020-05-19 11:57:38,232 - ebanking -INFO - Enter Username
+2020-05-19 11:57:38,377 - ebanking -INFO - Enter PW
+2020-05-19 12:05:36,212 - ebanking -INFO - Enter URL
+2020-05-19 12:05:36,562 - ebanking -INFO - Enter Username
+2020-05-19 12:05:36,718 - ebanking -INFO - Enter PW
+2020-05-19 16:43:37,322 - ebanking -INFO - User ID Provided
+2020-05-19 16:43:37,652 - ebanking -INFO - Password is provided
+2020-05-19 16:43:40,949 - ebanking -INFO - Clicked on Login Button
+2020-05-19 16:43:47,923 - ebanking -INFO - Clocked on Logout Button
+2020-05-19 16:43:54,486 - ebanking -INFO - User ID Provided
+2020-05-19 16:43:54,576 - ebanking -INFO - Password is provided
+2020-05-19 16:43:55,165 - ebanking -INFO - Clicked on Login Button
+2020-05-19 16:44:00,181 - ebanking -INFO - User ID Provided
+2020-05-19 16:44:00,298 - ebanking -INFO - Password is provided
+2020-05-19 16:44:02,443 - ebanking -INFO - Clicked on Login Button
+2020-05-19 16:44:05,469 - ebanking -INFO - Clocked on Logout Button
+2020-05-19 16:44:12,115 - ebanking -INFO - User ID Provided
+2020-05-19 16:44:12,218 - ebanking -INFO - Password is provided
+2020-05-19 16:44:13,646 - ebanking -INFO - Clicked on Login Button
+2020-05-19 16:44:16,856 - ebanking -INFO - User ID Provided
+2020-05-19 16:44:17,035 - ebanking -INFO - Password is provided
+2020-05-19 16:44:20,290 - ebanking -INFO - Clicked on Login Button
+2020-05-19 16:44:21,706 - ebanking -INFO - Clocked on Logout Button
+2020-06-07 16:20:48,305 - ebanking -INFO - User ID Provided
+2020-06-07 16:20:48,649 - ebanking -INFO - Password is provided
+2020-06-07 16:20:51,871 - ebanking -INFO - Clicked on Login Button
+2020-06-07 16:20:55,065 - ebanking -INFO - Clicked on New Customer Link
+2020-06-07 16:20:55,069 - ebanking -INFO - Filles Customer Information
+2020-06-07 16:21:54,280 - ebanking -INFO - User ID Provided
+2020-06-07 16:21:54,430 - ebanking -INFO - Password is provided
+2020-06-07 16:21:57,414 - ebanking -INFO - Clicked on Login Button
+2020-06-07 16:22:00,614 - ebanking -INFO - Clicked on New Customer Link
+2020-06-07 16:22:00,617 - ebanking -INFO - Filles Customer Information
+2020-06-07 16:24:44,683 - ebanking -INFO - User ID Provided
+2020-06-07 16:24:44,835 - ebanking -INFO - Password is provided
+2020-06-07 16:24:47,435 - ebanking -INFO - Clicked on Login Button
+2020-06-07 16:24:56,605 - ebanking -INFO - Clicked on New Customer Link
+2020-06-07 16:24:56,625 - ebanking -INFO - Filles Customer Information
+2020-06-07 16:27:08,801 - ebanking -INFO - User ID Provided
+2020-06-07 16:27:08,938 - ebanking -INFO - Password is provided
+2020-06-07 16:27:11,067 - ebanking -INFO - Clicked on Login Button
+2020-06-07 16:27:22,115 - ebanking -INFO - Clicked on New Customer Link
+2020-06-07 16:27:22,116 - ebanking -INFO - Filles Customer Information
+2020-06-07 19:59:10,734 - ebanking -INFO - User ID Provided
+2020-06-07 19:59:11,108 - ebanking -INFO - Password is provided
+2020-06-07 19:59:12,568 - ebanking -INFO - Clicked on Login Button
+2020-06-07 19:59:17,639 - ebanking -INFO - Clicked on New Customer Link
+2020-06-07 19:59:17,639 - ebanking -INFO - Filles Customer Information
+2020-06-07 20:00:33,871 - ebanking -INFO - User ID Provided
+2020-06-07 20:00:34,006 - ebanking -INFO - Password is provided
+2020-06-07 20:00:37,266 - ebanking -INFO - Clicked on Login Button
+2020-06-07 20:00:51,705 - ebanking -INFO - Clicked on New Customer Link
+2020-06-07 20:00:51,706 - ebanking -INFO - Filles Customer Information
+2020-06-07 20:03:09,542 - ebanking -INFO - User ID Provided
+2020-06-07 20:03:09,857 - ebanking -INFO - Password is provided
+2020-06-07 20:03:11,819 - ebanking -INFO - Clicked on Login Button
+2020-06-07 20:03:16,481 - ebanking -INFO - Clicked on New Customer Link
+2020-06-07 20:03:16,481 - ebanking -INFO - Filles Customer Information
+2020-06-07 20:03:35,004 - ebanking -INFO - Test Case Success
+2020-06-07 21:47:24,823 - ebanking -INFO - Enter URL
+2020-06-07 21:47:25,257 - ebanking -INFO - Enter Username
+2020-06-07 21:47:25,420 - ebanking -INFO - Enter PW
+2020-06-07 21:47:30,976 - ebanking -INFO - Test Case Passed
+2020-06-07 21:47:54,979 - ebanking -INFO - User ID Provided
+2020-06-07 21:47:55,252 - ebanking -INFO - Password is provided
+2020-06-07 21:48:01,295 - ebanking -INFO - Clicked on Login Button
+2020-06-07 21:48:06,825 - ebanking -INFO - Clicked on New Customer Link
+2020-06-07 21:48:06,829 - ebanking -INFO - Filles Customer Information
+2020-06-07 21:48:16,040 - ebanking -INFO - Test Case Success
+2020-06-09 13:57:57,243 - ebanking -INFO - Enter URL
+2020-06-09 13:57:57,761 - ebanking -INFO - Enter Username
+2020-06-09 13:57:57,931 - ebanking -INFO - Enter PW
+2020-06-09 13:58:00,687 - ebanking -INFO - Test Case Passed
+2020-06-09 13:58:21,665 - ebanking -INFO - User ID Provided
+2020-06-09 13:58:21,922 - ebanking -INFO - Password is provided
+2020-06-09 13:58:23,820 - ebanking -INFO - Clicked on Login Button
+2020-06-09 13:58:40,229 - ebanking -INFO - Clicked on New Customer Link
+2020-06-09 13:58:40,231 - ebanking -INFO - Filles Customer Information

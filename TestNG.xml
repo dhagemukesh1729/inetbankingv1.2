@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Guru99_Ebanking" >
+
+<listeners>
+	<listener class-name = "com.inetbanking.Utilities.Reporting"/>
+</listeners>>
+
+  <test name="Test">
+  <parameter name = "browser" value = "chrome"/>
+  
+    <classes>
+     <class name="com.inetbanking.Testcases.TC_001_Logintest"/>   
+    <!--     <class name ="com.inetbanking.Testcases.TC_002_LoginTestDataDriven"/> -->
+        <class name ="com.inetbanking.Testcases.TC_003_AddCustomer"/>
+    </classes>
+    
+      </test> <!-- Test -->
+</suite> <!-- Suite -->
