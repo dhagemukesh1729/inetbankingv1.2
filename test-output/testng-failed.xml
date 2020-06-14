@@ -8,19 +8,13 @@
   <test name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetbanking.Testcases.TC_003_AddCustomer">
+      <class name="com.inetbanking.Testcases.TC_004_EditCustomer">
         <methods>
           <include name="teardown"/>
           <include name="setup"/>
-          <include name="add_customer"/>
+          <include name="edit_customer"/>
         </methods>
-      </class> <!-- com.inetbanking.Testcases.TC_003_AddCustomer -->
-      <class name="com.inetbanking.Testcases.TC_001_Logintest">
-        <methods>
-          <include name="teardown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.inetbanking.Testcases.TC_001_Logintest -->
+      </class> <!-- com.inetbanking.Testcases.TC_004_EditCustomer -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Guru99_Ebanking] -->

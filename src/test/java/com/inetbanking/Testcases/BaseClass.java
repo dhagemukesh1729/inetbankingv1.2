@@ -71,4 +71,17 @@ public class BaseClass {
 		FileUtils.copyFile(source, target);
 		System.out.println("Screenshot taken");
 	}
+	
+	
+	public boolean isAltertPresent()
+	{
+		try {
+			
+			driver.switchTo().alert().accept();
+			return true;
+			
+		} catch (Exception e) {
+			return false;	
+		}
+}
 }

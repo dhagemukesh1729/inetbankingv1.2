@@ -66,6 +66,8 @@ public class TC_003_AddCustomer extends BaseClass {
 		{
 			Assert.assertTrue(true);
 			logger.info("Test Case Success");
+			
+	
 		}
 		
 		else
@@ -74,7 +76,20 @@ public class TC_003_AddCustomer extends BaseClass {
 			Assert.assertTrue(false);
 			logger.info("Test Case Failed");
 		}
+		
+		
+	/*	lp.clicklogout_button();
+		logger.info("Clocked on Logout Button");
+		Thread.sleep(3000);
+		
+		driver.switchTo().alert().accept();
+		
+		driver.switchTo().defaultContent();
+		
+		logger.info("Logout successfully");*/
 	}
+	
+	
 	
 	public String randomstring()
 	{

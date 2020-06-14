@@ -2,8 +2,10 @@ com\inetbanking\PageObject\LoginPage.class
 com\inetbanking\Testcases\TC_003_AddCustomer.class
 com\inetbanking\Utilities\Reporting.class
 com\inetbanking\PageObject\AddCustomer.class
+com\inetbanking\PageObject\EditCustomer.class
 com\inetbanking\Testcases\BaseClass.class
 com\inetbanking\Testcases\TC_002_LoginTestDataDriven.class
 com\inetbanking\Utilities\ReadConfig.class
 com\inetbanking\Testcases\TC_001_Logintest.class
+com\inetbanking\Testcases\TC_004_EditCustomer.class
 com\inetbanking\Utilities\XLUtils.class

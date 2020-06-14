@@ -2,6 +2,7 @@ package com.inetbanking.PageObject;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 public class LoginPage {
 	
@@ -34,7 +35,8 @@ public class LoginPage {
 	
 	public void clicklogout_button()
 	{
-		driver.findElement(logout_button).click();
+		WebElement element = driver.findElement(logout_button);
+		element.click();
 	}
 
 }

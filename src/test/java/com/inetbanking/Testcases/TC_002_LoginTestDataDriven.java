@@ -49,7 +49,7 @@ public class TC_002_LoginTestDataDriven extends BaseClass {
 		
 	}
 	
-	public boolean isAltertPresent()
+	/*public boolean isAltertPresent()
 	{
 		try {
 			
@@ -58,9 +58,9 @@ public class TC_002_LoginTestDataDriven extends BaseClass {
 			
 		} catch (Exception e) {
 			return false;	
-		}
+		}*/
 		
-	}
+	
 	
 	@DataProvider(name= "LoginData")
 	String[][] getData() throws IOException
